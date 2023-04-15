@@ -1,0 +1,30 @@
+.root{
+    background-color: whitesmoke;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+  }
+  .form{
+    float: right;
+    gap: '16px';
+    margin-right: 31%;
+    margin-left: auto;
+    margin-top: 15%;
+  }
+  .frame{
+    float:left;
+    text-align: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: 35%;
+    margin-top: 15%;
+  }
+  .title{
+    text-align: center;
+  }
+  input{
+    margin: 2px;
+  }
+  .error{
+    text-align: center;
+  }
